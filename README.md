@@ -1,4 +1,4 @@
-### Hi there 👋
+### Приветствую!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPaley&count_private=true&langs_count=10&theme=dark&layout=compact)
 
