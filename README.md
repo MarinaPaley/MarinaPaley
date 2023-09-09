@@ -24,6 +24,22 @@
 <a href="https://discord.com/users/801786615713890335" target="_blank"><img align="center" alt="Discord" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004"/></a>
 <a href="https://stackoverflow.com/users/17310482/Васильева-Марина-Алексеевна" target="_blank"><img align="center" alt="StackOverflow" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
 <a href="https://www.youtube.com/@marina_paley" target="_blank"><img align="center" alt="YouTube" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"/></a>
+<a href="https://www.researchgate.net/profile/Marina-Vasilieva" target="_blank"><img align="center" alt="ResearchGate" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg"/></a>
+<!--
+<a href="https://www.researchgate.net/profile/Marina-Vasilieva" target="_blank"><img align="center" alt="ResearchGate" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/scopus.svg"/></a>
+-->
+   <a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0001-8031-2482"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: center">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="height: 30; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+    </a>
 </p>
 
 <!--
