@@ -1,20 +1,24 @@
-## Приветствую!
+<h1>TL;DR</h1>
 
-<table width="100%" align="center" style="border: none; border-style: none;">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPaley&count_private=true&langs_count=10&layout=compact"/>
-    </td>
-    <td>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarinaPaley&count_private=true&show_icons=true"/>
-    </td>
-  </tr>
-</table>
+<div>
+  <p>
+Данный аккаунт постепенно будет становиться скорее более личным, нежели нацеленным на образовательные нужды. Но пока здесь всё ещё можно найти примеры кода и различные <i>tips-n-tricks</i>, освещённые на моих лекциях.
+  </p>
+  <p>
+    И да, я знаю, что <tt>Markdown</tt> и <tt>HTML</tt> не одно и то же. Но если долго не получается вверстать картинку штатными средствами <tt>M&darr;</tt> именно так, как тебе хочется, <a href="https://neolurk.org/wiki/Старая_копипаста:Страх_и_ненависть_в_Лас-Вегасе#Soft-development"><i>становится трудно остановиться...</i></a>
+  </p>
+</div>
 
+<h2 align="center">Немного обо мне</h2>
 
-## Ресурсы
+<div width="100%" align="center">
+  <img height="180em" margin="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaPaley&count_private=true&langs_count=10&layout=compact"/>
+  <img height="180em" margin="10em" src="https://github-readme-stats.vercel.app/api?username=MarinaPaley&count_private=true&show_icons=true"/>
+</div>
 
-<p align="center">
+<h2 align="center">Как связаться со мной</h2>
+
+<div align="center">
 <a href="https://t.me/MarinaPaley" target="_blank"><img align="center" alt="Telegram" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg"/></a>
 <!--
 <a href="https://wa.me/7xxxxxxxxxx" target="_blank"><img align="center" alt="What's App" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg"/></a>
@@ -40,19 +44,5 @@
         style="height: 30; margin-inline-start: 0.5em"
         alt="ORCID iD icon"/>
     </a>
-</p>
+</div>
 
-<!--
-**MarinaPaley/MarinaPaley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
