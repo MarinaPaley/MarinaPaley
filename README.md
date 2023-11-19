@@ -23,7 +23,8 @@
 <!--
 <a href="https://wa.me/7xxxxxxxxxx" target="_blank"><img align="center" alt="What's App" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg"/></a>
 -->
-<a href="https://gitflic.ru/user/marina-paley" target="_blank"><img align="center" alt="GitFlic" height="30" src="https://gitflic.ru/static/image/favicon/ms-icon-144x144.png"/></a>
+
+<a href="https://gitflic.ru/user/marina-paley" target="_blank"><img align="center" alt="GitFlic" height="30" src="https://gitflic.ru/static/image/favicon/favicon.ico"/></a>
 <a href="mailto:marina_paley@mail.ru" target="_blank"><img align="center" alt="mail.ru" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg"/></a>
 <a href="https://discord.com/users/801786615713890335" target="_blank"><img align="center" alt="Discord" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/users/736977089307345004"/></a>
 <a href="https://stackoverflow.com/users/17310482/Васильева-Марина-Алексеевна" target="_blank"><img align="center" alt="StackOverflow" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"/></a>
