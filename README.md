@@ -1,10 +1,8 @@
 <h1>Филипченко Марина</h1>
 
-<h2>TL;DR</h2>
-
 <div>
   <p>
-    В данном аккаунте представлены репозитории по разработке на <strong>Delphi</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>SQL</strong>, а также материалы курсов по программированию и проектированию баз данных.
+    В данном аккаунте представлены репозитории по разработке на <strong>Delphi</strong>, <strong>C++</strong>, <strong>C#</strong>, <strong>SQL</strong>, а также материалы курсов по <strong>Программированию</strong> и <strong>Проектированию баз данных</strong>.
   </p>
   </div>
 
